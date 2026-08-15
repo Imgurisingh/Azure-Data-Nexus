@@ -385,4 +385,5 @@ Through this project, I developed the ability to:
 # ✅ Project Summary
 
 This project demonstrates practical knowledge of cloud computing and Microsoft Azure data services through hands-on experience with relational databases, NoSQL databases, data ingestion, real-time analytics, Microsoft Fabric, and SQL-based data analysis. It showcases an understanding of how modern organisations use Azure technologies to store, process, analyse, and visualise data while supporting scalable, secure, and data-driven decision-making. 
+
 ---
